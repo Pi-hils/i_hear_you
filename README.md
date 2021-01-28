@@ -8,3 +8,13 @@ This is a project that stems from another project I made before Makers Academy. 
 - Yarn
 
 
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
