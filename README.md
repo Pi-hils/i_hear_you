@@ -7,7 +7,11 @@ This is a project that stems from another project I made before Makers Academy. 
 - Node.js
 - Yarn
 
-
+# To run Rails
+```
+$ bin/rails server 
+```
+Tyoe localhost:3000
 
 * Database initialization
 
