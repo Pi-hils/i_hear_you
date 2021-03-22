@@ -11,7 +11,7 @@ This is a project that stems from another project I made before Makers Academy. 
 ```
 $ bin/rails server 
 ```
-Tyoe localhost:3000
+Type localhost:3000
 
 * Database initialization
 
@@ -22,3 +22,6 @@ Tyoe localhost:3000
 * Deployment instructions
 
 * ...
+
+## Useful Resources
+[Rails Tutorial](https://www.youtube.com/watch?v=oyjzi837wME)
