@@ -7,6 +7,8 @@ This is a project that stems from another project I made before Makers Academy. 
 - Node.js
 - Yarn
 
+> cd into folder
+> run `bundle` in terminal to install gems 
 # To run Rails
 ```
 $ bin/rails server 
@@ -23,5 +25,13 @@ Type localhost:3000
 
 * ...
 
+Used bootstrap. Installed Yarn and added bootstrap, jquery, popper
+`brew install yarn`
+Once completed,  add the 4 dependencies:
+`Yarn add bootstrap jquery popper.js` 
+`
 ## Useful Resources
-[Rails Tutorial](https://www.youtube.com/watch?v=oyjzi837wME)
+1. [Rails Tutorial](https://www.youtube.com/watch?v=oyjzi837wME)
+2. [MVC](https://github.com/Pi-hils/course/blob/master/pills/mvc.md)
+3. [Adding bootsrap extensions](https://docs.google.com/document/d/12qed6Q1I5V59hZuGi90LipFuPnVIiQnRxRGTMdd4PP4/edit)
+xk
